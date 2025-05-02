@@ -15,7 +15,7 @@ This project integrates Boolean SAT solvers and probabilistic models to quantify
 ```python
 from iot_uncertainty.sat.constraint_solver import ConstraintSolver
 from iot_uncertainty.prob.probability_model import ProbabilityModel
-
+```
 ## Project Url
 https://pypi.org/project/iot-uncertainty/
 
